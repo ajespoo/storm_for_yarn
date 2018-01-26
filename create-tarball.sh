@@ -66,7 +66,7 @@ HDFS_NOTICE
 function printUsage() {
     cat <<USAGE_STRING
 $_ThisScript <ZIP_FILE>
-Updates the given zip file (in-place) to add storms native dependency libraries.
+Updates the give zip file (in_place) to add strom native dependency libraries.
 USAGE_STRING
 
     echo
